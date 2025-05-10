@@ -3,7 +3,16 @@
 </p>
 
 # Hello World!, I'm Nguyen Minh Tri 👋:
-I'm studying Computer Science at Vietnamese-German University 🇩🇪<br>I'm currently learning Data Analysis 💻
+
+<img align="right" alt="Coding" width="400" src="assets/drawing_mountain.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turtle6814&label=Profile%20views&color=0e75b6&style=flat" alt="turtle6814" /> </p>
+
+- 📚 I’m studying at **Vietnamese-German University**
+
+- 🌱 I’m currently learning **Data Analysis**
+
+- 💻 How to reach me **minhtringuyen14092003@gmail.com**
 
 
 ## 🌐 Socials:

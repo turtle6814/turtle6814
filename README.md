@@ -15,10 +15,11 @@ I'm studying Computer Science at Vietnamese-German University 🇩🇪<br>I'm cu
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=turtle6814&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle6814&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=turtle6814&theme=dark&hide_border=false" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle6814&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ### ✍️ Random Dev Quote
@@ -28,3 +29,8 @@ I'm studying Computer Science at Vietnamese-German University 🇩🇪<br>I'm cu
 [![](https://visitcount.itsvg.in/api?id=turtle6814&icon=0&color=11)](https://visitcount.itsvg.in)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/turtle6814/turtle6814/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/turtle6814/turtle6814/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/turtle6814/turtle6814/output/github-snake.svg" />
+</picture>

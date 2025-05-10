@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg2d3U1dXo0bHVvdTBtejM0cjF5c3U5MWExamVmaXBlMWdzaWg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FyNkn7K2trrvwJODfh/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg2d3U1dXo0bHVvdTBtejM0cjF5c3U5MWExamVmaXBlMWdzaWg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FyNkn7K2trrvwJODfh/giphy.gif" width="1000">
 
 # Hello World!, I'm Nguyen Minh Tri 👋:
 I'm studying Computer Science at Vietnamese-German University 🇩🇪<br>I'm currently learning Data Analysis 💻
@@ -14,6 +14,10 @@ I'm studying Computer Science at Vietnamese-German University 🇩🇪<br>I'm cu
 ![](https://nirzak-streak-stats.vercel.app/?user=turtle6814&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=turtle6814&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=turtle6814&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
+<p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=turtle6814&theme=dark&hide_border=false" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle6814&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

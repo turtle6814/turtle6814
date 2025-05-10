@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg2d3U1dXo0bHVvdTBtejM0cjF5c3U5MWExamVmaXBlMWdzaWg0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FyNkn7K2trrvwJODfh/giphy.gif)
+![](assets/jungfrau_valley.gif)
 
 # Hello World!, I'm Nguyen Minh Tri 👋:
 I'm studying Computer Science at Vietnamese-German University 🇩🇪<br>I'm currently learning Data Analysis 💻

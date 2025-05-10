@@ -4,8 +4,7 @@
 
 # Hello World!, I'm Nguyen Minh Tri 👋:
 
-<img align="right" alt="Coding" width="400" style="margin-left: 20px; margin-top: 10px;" src="assets/drawing_mountain.gif">
-
+<img align="right" alt="Coding" width="300" src="assets/drawing_mountain.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtle6814&label=Profile%20views&color=0e75b6&style=flat" alt="turtle6814" /> </p>
 

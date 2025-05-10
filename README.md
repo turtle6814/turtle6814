@@ -1,4 +1,6 @@
-![](assets/jungfrau_valley.gif)
+<p align="center">
+  <img src="assets/jungfrau_valley.gif" width="100%" alt="Jungfrau Valley walk GIF" />
+</p>
 
 # Hello World!, I'm Nguyen Minh Tri 👋:
 I'm studying Computer Science at Vietnamese-German University 🇩🇪<br>I'm currently learning Data Analysis 💻

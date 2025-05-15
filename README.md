@@ -10,7 +10,7 @@
 
 - 📚 I’m studying at **Vietnamese-German University**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m passionate about **Data**
 
 - 💻 How to reach me **minhtringuyen14092003@gmail.com**
 

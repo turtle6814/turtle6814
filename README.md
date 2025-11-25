@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtle6814&label=Profile%20views&color=0e75b6&style=flat" alt="turtle6814" /> </p>
 
-- 📚 I’m studying at **Vietnamese-German University**
+- 📚 🎓 I’ve graduated with a dual degree from  🇻🇳 **Vietnamese-German University** and 🇩🇪 **Frankfurt University of Applied Sciences**  
 
-- 🌱 I’m passionate about **Data**
+- 🌱 I'm a **Software Engineer** passionate about Data 
 
 - 💻 How to reach me **minhtringuyen14092003@gmail.com**
 
